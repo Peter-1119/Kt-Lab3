@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.kt_myapplication_lab3">
 
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
